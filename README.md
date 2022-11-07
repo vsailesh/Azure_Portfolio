@@ -10,5 +10,4 @@ Website Link: https://monksgarage.z13.web.core.windows.net/index.html
 
 Website ScreenShots:
 
-Portfolio![image](https://user-images.githubusercontent.com/93115567/200157192-c790d899-8792-4207-95a3-927ab16094fc.png)
-![image](https://user-images.githubusercontent.com/93115567/200157220-c6bb47b4-268e-480b-bf59-2eeb92a6c2f1.png)
+Portfolio!
